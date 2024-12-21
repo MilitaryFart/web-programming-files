@@ -1,0 +1,10 @@
+$color: red;
+
+ol {
+    font-weight: bolder;
+    color: $color;
+}
+ul {
+    font-weight: lighter;
+    color: $color;
+}

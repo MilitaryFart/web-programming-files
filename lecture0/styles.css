@@ -1,0 +1,51 @@
+h1 {
+    color: navy;
+    text-align: center;
+}
+
+div {
+    background-color: crimson;
+    width: 150px;
+    height: 25px;
+    padding: 20px;
+    margin: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td,th {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+#googity {
+    color: red;
+    text-align: end;
+}
+
+.omega {
+    color: aquamarine;
+    font-weight: bold;
+}
+
+ul > li {
+    color:darkorchid;
+    font-weight: bolder;
+}
+
+a {
+    color: blue;
+}
+a[href="ilikeunagi.html"] {
+    color: rgb(226, 12, 144);
+    font-weight: bolder;
+}
+
+button:hover {
+    background-color: blueviolet;
+}
